@@ -1,0 +1,31 @@
+questions: 
+    - Which of the following modes propagates in a dielectric waveguide with a rectangular cross-section?
+    - What is the relationship between the refractive indices of the core and cladding in a step-index fiber?
+    - What is the purpose of the cladding layer in an optical fiber?
+    - How do TE modes and TM modes differ in their electric field distribution?
+answers:
+    -
+        - TE modes
+        - TM modes
+        - Both TE and TM modes
+        - Neither TE nor TM modes
+    -
+        - The refractive index of the core is greater than the refractive index of the cladding.
+        - The refractive index of the core is equal to the refractive index of the cladding.
+        - The refractive index of the core is less than the refractive index of the cladding.
+        - There is no relationship between the refractive indices of the core and cladding.
+    -
+        - The cladding layer is used to transmit the light signal through the fiber.
+        - The cladding layer is used to protect the fiber from damage.
+        - The cladding layer is used to focus the light onto the fiber.
+        - The cladding layer is used to reflect light back into the core.
+    -
+        - TE modes have an electric field that is perpendicular to the direction of propagation, while TM modes have an electric field that is parallel to the direction of propagation.
+        - TE modes have an electric field completely transverse to the direction of propagation, with a non-zero transverse magnetic field. TM modes have a magnetic field completely transverse to the direction of propagation, with a non-zero transverse electric field.
+        - TE modes and TM modes have the same electric field distribution.
+        - There is no difference in the electric field distribution of TE modes and TM modes.
+correct: 
+    - A
+    - A
+    - D
+    - B
