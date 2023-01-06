@@ -1,5 +1,5 @@
 questions: 
-    - Which of the following modes propagates in a dielectric waveguide with a rectangular cross-section?
+    - Which of the following modes propagates in a single mode dielectric waveguide with a rectangular cross-section where the width of the waveguide is greater than the height of the waveguide?
     - What is the relationship between the refractive indices of the core and cladding in a step-index fiber?
     - What is the purpose of the cladding layer in an optical fiber?
     - How do TE modes and TM modes differ in their electric field distribution?
