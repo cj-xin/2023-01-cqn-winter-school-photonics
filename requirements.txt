@@ -3,3 +3,4 @@ sympy>=0.0.1
 numpy>=0.0.1
 matplotlib>=0.0.1
 scipy>=0.0.1
+yaml>=0.0.1
